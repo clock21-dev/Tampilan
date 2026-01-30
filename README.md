@@ -81,7 +81,8 @@ pkg install git python neofetch mpv lolcat -y
 git clone https://github.com/TCLstoreid/Tampilan.git
 cd Tampilan
 ls
-Harus nya ada file dibawah ini
+Ketika ls harus nya ada file dibawah ini
 ├── Tampilan.py
 ├── Tampilan.sh
-└── bash.bashrc```
+└── bash.bashrc
+python Tampilan.py```
