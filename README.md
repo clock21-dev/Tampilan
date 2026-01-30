@@ -79,7 +79,7 @@ Gunakan dengan bijak dan tanggung jawab masing-masing.
 ```
 pkg update && pkg upgrade -y
 pkg install git python neofetch mpv lolcat -y
-git clone https://github.com/TCLstoreid/Tampilan.git
+git clone https://github.com/clock21-dev/Tampilan.git
 cd Tampilan
 ls
 Ketika ls harus nya ada file dibawah ini
