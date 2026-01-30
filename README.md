@@ -76,7 +76,8 @@ Gunakan dengan bijak dan tanggung jawab masing-masing.
 
 
 ##  Command (Termux)
-```pkg update && pkg upgrade -y
+```
+pkg update && pkg upgrade -y
 pkg install git python neofetch mpv lolcat -y
 git clone https://github.com/TCLstoreid/Tampilan.git
 cd Tampilan
@@ -85,4 +86,5 @@ Ketika ls harus nya ada file dibawah ini
 ├── Tampilan.py
 ├── Tampilan.sh
 └── bash.bashrc
-python Tampilan.py```
+python Tampilan.py
+```
