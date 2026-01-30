@@ -1,3 +1,8 @@
+## 📸 Screenshot
+
+![Tampilan RUCAKIN](https://e.top4top.io/p_36824y7vk1.png)
+
+
 ## 📌 Tentang Tools RUCAKIN
 
 **RUCAKIN** adalah tools berbasis **Python & Bash** yang dibuat untuk **mengubah dan mempercantik tampilan Termux** agar menyerupai berbagai distro Linux terkenal.  
