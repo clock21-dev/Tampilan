@@ -86,5 +86,5 @@ Ketika ls harus nya ada file dibawah ini
 ├── Tampilan.py
 ├── Tampilan.sh
 └── bash.bashrc
-python Tampilan.py
+python tampilan.py
 ```
